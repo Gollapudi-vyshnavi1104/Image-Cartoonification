@@ -11,7 +11,7 @@ from tkinter import filedialog
 from tkinter import *
 from PIL import ImageTk, Image
 
-ImagePath="hiraeth pic.jpg"
+ImagePath="vyshuim.jpeg"
 
 top=tk.Tk()
 top.geometry('400x400')
